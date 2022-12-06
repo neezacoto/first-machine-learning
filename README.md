@@ -14,7 +14,7 @@ https://www.kaggle.com/datasets/jqpeng/boston-weather-data-jan-2013-apr-20
 ### Decision Tree
 ![image](https://user-images.githubusercontent.com/74576449/206014303-a3e582de-08f0-4421-af6a-79d84710400f.png)
 
-## Try it out
+# 🚀 Try it out!!!
 Data: https://drive.google.com/file/d/1FHhlrJ3AfqciVHzTcKkBdsftZDrO9sQS/view?usp=sharing
 
 Colab: https://colab.research.google.com/drive/1FSKFC0YI2cny6x4JFKbdojefszei1lW5?usp=sharing
